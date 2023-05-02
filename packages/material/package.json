@@ -1,0 +1,13 @@
+{
+  "name": "@sg-design/material",
+  "version": "1.0.0",
+  "description": "Sungrow Design Vue: 公共业务组件",
+  "author": "SungrowDesign Team",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "@sg-design/web-vue": "1.0.0"
+  }
+}

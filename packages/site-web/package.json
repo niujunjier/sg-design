@@ -1,0 +1,17 @@
+{
+  "name": "@sg-design/site-web",
+  "version": "1.0.0",
+  "description": "Sungrow Design Vue: web页面",
+  "author": "SungrowDesign Team",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sg dev:site"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@sg-design/material": "1.0.0",
+    "@sg-design/script": "1.0.0",
+    "vue": "^3.2.36"
+  }
+}

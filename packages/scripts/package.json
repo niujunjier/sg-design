@@ -1,0 +1,19 @@
+{
+  "name": "@sg-design/script",
+  "version": "1.0.0",
+  "description": "Sungrow Design Vue: 脚本库",
+  "author": "SungrowDesign Team",
+  "license": "MIT",
+  "bin": {
+    "sg": "./index.js"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "@vitejs/plugin-vue": "^4.2.1",
+    "@vue/compiler-sfc": "^3.2.47",
+    "commander": "^10.0.1",
+    "vite": "^4.3.3",
+    "vue": "^3.2.36"
+  }
+}
